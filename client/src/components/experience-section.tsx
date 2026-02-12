@@ -3,13 +3,37 @@ import { CheckCircle } from "lucide-react";
 
 const experiences = [
   {
-    title: "Lecturer (Information & Communication Technology)",
-    company: "Directorate of Secondary & Higher Education (DSHE)",
+    title: "Programmer, EMIS Cell",
+    company: "Directorate of Secondary & Higher Education (DSHE), Bangladesh, Dhaka",
     department: "Ministry of Education, 38th BCS",
-    duration: "Feb 2021 - Present",
+    duration: "2025 – Present",
     status: "Current",
     statusColor: "bg-emerald-100 text-emerald-800",
     borderColor: "border-emerald-500",
+    responsibilities: [
+      "Modernize the Personnel Data System (PDS) for BCS General Education Cadre officers.",
+      "Design and implement an automated Gradation List management system.",
+      "Lead the updating, cleansing, and maintenance of a centralized institutional database for all DSHE affiliated institutions.",
+      "Conduct validation, testing, and field-level implementation support for the Digital Monitoring System (DMS).",
+      "Define scope, perform audits, and support implementation of AI-driven initiatives.",
+      "Develop and integrate APIs across EMIS modules to ensure secure data exchange.",
+      "Provide technical support and troubleshooting for software, databases, and network systems.",
+    ],
+    technical: [
+      "EMIS architecture, database design, and API development",
+      "Data validation, analytics, and reporting systems",
+      "AI integration in e-governance and education systems",
+      "Software deployment, testing, and system integration",
+    ],
+  },
+  {
+    title: "Lecturer (Information & Communication Technology)",
+    company: "Directorate of Secondary & Higher Education (DSHE)",
+    department: "Ministry of Education, 38th BCS",
+    duration: "Feb 2021 - 2025",
+    status: "4 Years",
+    statusColor: "bg-blue-100 text-blue-800",
+    borderColor: "border-blue-500",
     responsibilities: [
       "Lecturer and Head of ICT Department",
       "Intel-certified AI Lead Coach for 4IR initiative",
