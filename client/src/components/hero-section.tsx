@@ -46,7 +46,7 @@ export default function HeroSection() {
                 Engr. Shadman Sakib
               </h1>
               <p className="text-xl text-blue-200">
-                AI Lead Coach & ICT Lecturer | Telecom Network Expert
+                Programmer, EMIS Cell | AI Lead Coach & ICT Lecturer
               </p>
               <p className="text-lg text-slate-300 max-w-lg">
                 Experienced engineering professional specializing in Artificial Intelligence, Machine Learning, 
